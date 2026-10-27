@@ -23,6 +23,11 @@ Magnetisation configuration in arrays of permalloy rectangles and its impact on 
 https://iopscience.iop.org/article/10.1088/2053-1591/ac2442/meta
 
 
+Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
+
+https://pubs.acs.org/chreay/article-abstract/108/6/2064/198011/Magnetic-Iron-Oxide-Nanoparticles-Synthesis?redirectedFrom=fulltext
+
+
 The avifauna of the río Fortaleza drainage basin, dptos. of Lima & Ancash (
 La avifauna de la cuenca del río Fortaleza, dptos. de Lima y Áncash)
 
