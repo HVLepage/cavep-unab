@@ -13,6 +13,11 @@ Anisotropic microstrain and its relationship with the out-of-plane texture and t
 https://d1wqtxts1xzle7.cloudfront.net/47889815/Fabricacion_y_caracterizacion_de_peliculas-libre.pdf?1470671174=&response-content-disposition=inline%3B+filename%3DUNIVERSIDAD_NACIONAL_MAYOR_DE_SAN_MARCOS.pdf&Expires=1791200276&Signature=ZeALSKQvBGBg3dzL2uYa~pfBla4sXuoidFoIHoqoeIZV-2rkyl~mYhLkfZmgRCv3lnkH~cjVryw44tqZSQ~POFgKYUAnLNNvcDpI31uitByHZB7IJpC~5dRxnIAsPP432ARvbnvO-lsCQEHVpAQ7D65zmR4yDxVepxIINn4xDNnKxdOOc1np3l331jAJncA732SqcWGQlDKAW~9mrBZcT4pcaAicuSTf9bAwyIh2QlxZohNOXAYtP7GCGcSabYrVcXSMfEBFXD~BUvuWZj1g2DAZevO1ZpeHvI4mccB1rblHHDyfxx6RMUV8o2BBdufY6efmOcHbcWYqe4PJy6TsYg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 
+Fabrication and Characterization of High-Temperature Superconducting B....... Tapes
+
+https://www.sciltp.com/journals/heme/articles/2610005435
+
+
 Highly sensitive fluorescence based mercury II DNA sensor enhanced by silver (I) activation (Biosensor de ADN para mercurio(II) basado en fluorescencia de alta sensibilidad y potenciado por activación con plata(I))
 
 https://www.sciencedirect.com/science/article/pii/S2665917422000022
